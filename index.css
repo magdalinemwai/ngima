@@ -1,0 +1,90 @@
+*{
+    font-family: poppins,inter,sans-serif;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+#get{
+    background-color: #ED661F;
+    border-radius: 20px;
+}
+.Beginning{
+    background-image: url("https://drive.google.com/file/d/1JOplXxMfjtG7T2gNXmPHHva1tuf8jrXu/view?usp=sharing");
+    background-color: top right;
+}
+#exploremore{
+    background-color: #ED661F;
+    color: white;
+    height: 90px;
+    width: 300px;
+    font-size: 35px;
+}
+#rates{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content:right;
+    box-shadow: 2px 0px 4px;
+    margin-left: 800px;
+    padding: 60px;
+}
+.Reason{
+    display:flex;
+    flex-direction: row;
+    padding: 35px;
+    font-size: 30px;
+    margin-left: 60px;
+}
+.Known{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 45px;
+}
+.Food{
+    display: flex;
+    flex-direction: row;
+    padding: 35px;
+}
+ .Information{
+    display: flex;
+    flex-direction: row;
+    font-size: large;
+    align-items: center;
+ }
+ .Tell{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+ }
+ .Dietchain{
+    background-color: black;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+ }
+ .Agriplus{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    list-style: none;
+ }
+ #Privacy{
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
